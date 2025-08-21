@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou a Vivian</h1>
 
-<!--
-**VivianOAlmeida/VivianOAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ Estudante de Ensino Médio com Técnico Integrado de Informática para Internet<br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos em Destaque
+
+- [**projeto-ecommerce**](https://github.com/VivianOAlmeida/projeto-ecommerce) — Loja virtual simples feita em HTML/CSS.
+- [**Projeto_login**](https://github.com/VivianOAlmeida/Projeto_login) — Interface de login simples.
+- [**Form_contato**](https://github.com/VivianOAlmeida/form_contato) — Formulário de contato simples.
+
+---
+
+| Linguagens & Tecnologias                                                                                                                                                                                                                                                                                                             | Ferramentas & Plataformas                                                                                                                                                                                                          | Aprendendo                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white) |
+
+
+---
+
+### Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VivianOAlmeida&show_icons=true&theme=github_dark" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivianOAlmeida&theme=github-dark-blue" width="45%" />
+</p>

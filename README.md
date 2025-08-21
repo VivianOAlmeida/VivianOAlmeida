@@ -1,4 +1,4 @@
-<img src="img.gif" alt="">
+[img](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM3eWlqa2ZpbWpzbGhjZmE2MWx4c3Jwejg1YXMzaW9wc21oN3NnZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/289zYOgHrJisGDdfXD/giphy.gif)
 
 <h1 align="center">Olá, eu sou a Vivian</h1>
 

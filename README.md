@@ -1,3 +1,5 @@
+<img src="img.gif" alt="">
+
 <h1 align="center">Olá, eu sou a Vivian</h1>
 
 <p align="center">

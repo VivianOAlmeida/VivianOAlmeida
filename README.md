@@ -10,6 +10,7 @@
 
 ### Projetos em Destaque
 
+- [**Girassois-Amarelos**](https://github.com/bellynick/Girassois_Amarelos_Site_de_Ajuda_Psiquica) — Site de ajuda psicológica
 - [**projeto-ecommerce**](https://github.com/VivianOAlmeida/projeto-ecommerce) — Loja virtual simples feita em HTML/CSS.
 - [**Projeto_login**](https://github.com/VivianOAlmeida/Projeto_login) — Interface de login simples.
 - [**Form_contato**](https://github.com/VivianOAlmeida/form_contato) — Formulário de contato simples.

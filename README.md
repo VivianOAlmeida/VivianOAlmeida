@@ -1,4 +1,4 @@
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM3eWlqa2ZpbWpzbGhjZmE2MWx4c3Jwejg1YXMzaW9wc21oN3NnZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/289zYOgHrJisGDdfXD/giphy.gif
+![](https://static0.srcdn.com/wordpress/wp-content/uploads/2024/03/damian-wayne-with-a-sword-next-to-the-robin-r-logo.jpg?q=50&fit=crop&w=1008&h=693&dpr=1.5
 )
 <h1 align="center">Olá, eu sou a Vivian</h1>
 
